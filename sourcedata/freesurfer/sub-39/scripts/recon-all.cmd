@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Fj/XZ/MD5E-s4040--6b8ef5844182925803228f05e074f8a4.cmd/MD5E-s4040--6b8ef5844182925803228f05e074f8a4.cmd
+/annex/objects/MD5E-s4040--6b8ef5844182925803228f05e074f8a4.cmd
