@@ -1,0 +1,216 @@
+[submodule "code/containers"]
+	path = code/containers
+	url = https://github.com/ReproNim/containers.git
+	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+[submodule "code/tacc-openneuro"]
+	path = code/tacc-openneuro
+	url = https://github.com/poldracklab/tacc-openneuro.git
+	datalad-url = https://github.com/poldracklab/tacc-openneuro.git
+[submodule "sourcedata/raw"]
+	path = sourcedata/raw
+	url = https://github.com/OpenNeuroDatasets/ds000212.git
+	datalad-id = f7806bd4-8a2e-11e8-9061-0242ac120017
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-Fischer344"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-Fischer344
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-fsaverage"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-fsaverage
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-fsLR"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-fsLR
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152Lin"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152Lin
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin2009aAsym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin2009aAsym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin2009aSym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin2009aSym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin2009bAsym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin2009bAsym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin2009bSym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin2009bSym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin2009cAsym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin2009cAsym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin2009cSym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin2009cSym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin6Asym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin6Asym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI152NLin6Sym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI152NLin6Sym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNI305"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNI305
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNIColin27"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNIColin27
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNIInfant"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNIInfant
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MNIPediatricAsym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MNIPediatricAsym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-MouseIn"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-MouseIn
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-NKI"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-NKI
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-NMT31Sym"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-NMT31Sym
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-OASIS30ANTs"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-OASIS30ANTs
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-PNC"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-PNC
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-RESILIENT"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-RESILIENT
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-UNCInfant"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-UNCInfant
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-VALiDATe29"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-VALiDATe29
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow/tpl-WHS"]
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow/tpl-WHS
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	url = https://github.com/templateflow/templateflow.git
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
